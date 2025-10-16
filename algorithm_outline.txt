@@ -1,0 +1,10 @@
+# Algorithm Outline (Pseudo-Code Summary)
+
+1. Initialize random dot positions inside circular mask.
+2. Generate figure mask (numeric pattern or path).
+3. Assign figure and background LAB values with ΔE target difference.
+4. Convert LAB → RGB and simulate color vision deficiencies.
+5. Validate readability; regenerate until threshold met.
+6. Export plate as PNG with ICC profile and metadata.
+
+Note: This outline omits proprietary implementation details.
