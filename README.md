@@ -42,4 +42,4 @@ This work is licensed under **Creative Commons Attribution-NonCommercial 4.0 Int
 ---
 
 Developed by **Tomáš Pokrývka / Websy s.r.o. (Poprad, Slovakia)**  
-Contact: [contact@ishiharatest.com](mailto:info@websy.sk)
+Contact: [info@websy.sk](mailto:info@websy.sk)
