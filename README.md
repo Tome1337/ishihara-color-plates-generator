@@ -23,7 +23,7 @@ Detailed notes and references are available in
 [`/docs/research-overview.md`](docs/research-overview.md)
 
 Live web reference:  
-👉 [https://ishiharatest.com/en-us/research](https://ishiharatest.com/en-us/)
+👉 [https://ishiharatest.com/en-us/](https://ishiharatest.com/en-us/)
 
 ---
 
